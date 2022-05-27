@@ -1,3 +1,8 @@
+**Notice:**
+This plugin has moved! It is now supported by [PayloadCMS](https://payloadcms.com) — see the [official plugin](https://www.npmjs.com/package/@payloadcms/plugin-nested-docs) for full details.
+
+---
+
 # Payload Nested Pages Plugin
 
 [![NPM](https://img.shields.io/npm/v/payload-plugin-nested-pages)](https://www.npmjs.com/package/payload-plugin-nested-pages)
